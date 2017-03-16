@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\StringManipulation\StringManipulationTests\bin\Debug\StringManipulationTests.dll
+d:\documents\visual studio 2015\Projects\StringManipulation\StringManipulationTests\bin\Debug\StringManipulationTests.pdb
+d:\documents\visual studio 2015\Projects\StringManipulation\StringManipulationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+d:\documents\visual studio 2015\Projects\StringManipulation\StringManipulationTests\bin\Debug\StringManipulation.exe
+d:\documents\visual studio 2015\Projects\StringManipulation\StringManipulationTests\bin\Debug\StringManipulation.pdb
+d:\documents\visual studio 2015\Projects\StringManipulation\StringManipulationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+d:\documents\visual studio 2015\Projects\StringManipulation\StringManipulationTests\obj\Debug\StringManipulationTests.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\StringManipulation\StringManipulationTests\obj\Debug\StringManipulationTests.dll
+d:\documents\visual studio 2015\Projects\StringManipulation\StringManipulationTests\obj\Debug\StringManipulationTests.pdb
