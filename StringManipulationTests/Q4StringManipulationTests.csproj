@@ -54,9 +54,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\StringManipulation\StringManipulation.csproj">
+    <ProjectReference Include="..\StringManipulation\Q4StringManipulation.csproj">
       <Project>{44953d0f-c862-4fdc-a034-b39c19f2adcf}</Project>
-      <Name>StringManipulation</Name>
+      <Name>Q4StringManipulation</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

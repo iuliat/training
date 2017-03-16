@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2015\Projects\StringManipulation\Q1ExchangeTests\obj\Debug\Q1ExchangeTests.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\StringManipulation\Q1ExchangeTests\bin\Debug\Q1ExchangeTests.dll
+D:\Documents\Visual Studio 2015\Projects\StringManipulation\Q1ExchangeTests\bin\Debug\Q1ExchangeTests.pdb
+D:\Documents\Visual Studio 2015\Projects\StringManipulation\Q1ExchangeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documents\Visual Studio 2015\Projects\StringManipulation\Q1ExchangeTests\bin\Debug\Q1Exchange.exe
+D:\Documents\Visual Studio 2015\Projects\StringManipulation\Q1ExchangeTests\bin\Debug\Q1Exchange.pdb
+D:\Documents\Visual Studio 2015\Projects\StringManipulation\Q1ExchangeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Documents\Visual Studio 2015\Projects\StringManipulation\Q1ExchangeTests\obj\Debug\Q1ExchangeTests.dll
+D:\Documents\Visual Studio 2015\Projects\StringManipulation\Q1ExchangeTests\obj\Debug\Q1ExchangeTests.pdb
